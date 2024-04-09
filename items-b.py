@@ -29,6 +29,12 @@
 <link>ignoreme</link>
 <externallink></externallink>
 </item>
+<item>
+<title>[COLOR lime][COLOR  yellow][ [/COLOR]PLAYLIST[COLOR  yellow] ][COLOR  cyan] 6[/COLOR]</title>
+<thumbnail>https://projatol.000webhostapp.com/logo/playlist.png</thumbnail>
+<link>ignoreme</link>
+<externallink></externallink>
+</item>
 
 
 </items>
