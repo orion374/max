@@ -3,7 +3,7 @@
 <title>[COLOR lime][COLOR  yellow][ [/COLOR]PLAYLIST[COLOR  yellow] ][COLOR  cyan] 1[/COLOR]</title>
 <thumbnail>https://projatol.000webhostapp.com/logo/playlist.png</thumbnail>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/GolfiArtistryGamer/max/main/meufi-1.py</externallink>
+<externallink>https://raw.githubusercontent.com/orion374/v3w/main/pluto.xml</externallink>
 </item>
 <item>
 <title>[COLOR lime][COLOR  yellow][ [/COLOR]PLAYLIST[COLOR  yellow] ][COLOR  cyan] 2[/COLOR]</title>
